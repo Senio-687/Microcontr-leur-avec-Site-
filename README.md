@@ -112,7 +112,7 @@ Mettre dans le navigateur Web l'url du serveur  :
 http://IP_SERVEUR/index.php
 ```
 
-## 💡 Conseil et Aide
+## 💡 Aide
 
 ### Ubuntu
 Toute ces commande est pour le terminal(invite de commande) du serveur
